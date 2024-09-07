@@ -22,7 +22,7 @@ git clone https://github.com/Bipan101/login-page.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd your-repo-name
+cd (your director)
 ```
 
 3. Install dependencies:
